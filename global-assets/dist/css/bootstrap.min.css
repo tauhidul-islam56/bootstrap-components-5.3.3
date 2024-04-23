@@ -9415,6 +9415,10 @@ fieldset:disabled .btn {
     text-align: center !important
 }
 
+.text-justify {
+    text-align: justify !important;
+}
+
 .text-decoration-none {
     text-decoration: none !important
 }
